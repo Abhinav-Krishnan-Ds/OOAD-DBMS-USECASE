@@ -10,6 +10,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// This is where we write the query
 public class ProjectDAO {
     private static final String PROJECTS_QUERY =
         "SELECT DISTINCT p.id, p.project_name, p.project_desc FROM Project p " +

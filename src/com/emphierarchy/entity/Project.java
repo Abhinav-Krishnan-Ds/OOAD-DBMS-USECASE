@@ -1,5 +1,7 @@
 package com.emphierarchy.entity;
 
+
+// This class is used to print the details of the projects that we are trying to search
 public class Project {
     private int id;
     private String projectName;

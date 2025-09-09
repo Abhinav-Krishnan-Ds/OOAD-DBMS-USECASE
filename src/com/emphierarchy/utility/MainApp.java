@@ -7,6 +7,8 @@ import com.emphierarchy.service.ProjectService;
 import java.util.List;
 import java.util.Scanner;
 
+
+// This is where we run the whole project
 public class MainApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

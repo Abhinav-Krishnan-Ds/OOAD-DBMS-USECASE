@@ -6,6 +6,9 @@ import com.emphierarchy.entity.Project;
 import java.sql.SQLException;
 import java.util.List;
 
+
+// Business logic is written here
+
 public class ProjectService {
     private ProjectDAO projectDAO = new ProjectDAO();
 
